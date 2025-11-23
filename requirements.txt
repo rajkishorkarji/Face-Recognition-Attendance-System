@@ -1,0 +1,5 @@
+OpenCV-Python
+Numpy
+Pandas
+Scikit-Learn
+Win32com
